@@ -9,3 +9,7 @@ Bu proje, bir e-ticaret platformu oluşturmak amacıyla geliştirilmiştir. Ür�
 Responsive Tasarım: Mobil ve masaüstü cihazlarda uyumlu çalışacak şekilde tasarlanmıştır
 
 Sepet: Kullanıcılar seçtikleri ürünleri sepete ekleyebilir ve sepetlerini görüntüleyebilir.
+
+<h2>Ekran Görüntüsü</h2>
+
+![](kayıt.gif)
